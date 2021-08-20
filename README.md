@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sivers1985
-- 👀 I’m interested in data science with python
-- 🌱 I’m currently learning pandas
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in web development with python and javascript
+- 🌱 I’m currently learning git
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me sivers1985@yahoo.com
 
 <!---
